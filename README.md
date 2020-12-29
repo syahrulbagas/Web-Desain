@@ -1,2 +1,2 @@
 # Web-Desain
-HTML CSS
+HTML CSS JS
