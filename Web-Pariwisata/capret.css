@@ -1,0 +1,12 @@
+.capret{
+	background-image: url(gambar/makanan/capret/1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	min-height: 10px;
+	padding: 300px 100px 50px;
+	color: white;
+	text-shadow: 2px 4px 10px black;
+
+}
