@@ -1,2 +1,4 @@
 # Web-Desain
-HTML CSS JS
+- HTML
+- CSS
+- Bootstrap
